@@ -1,0 +1,47 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+*.env
+.venv
+
+# Dependency directories
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+
+# Testing and coverage
+htmlcov/
+.tox/
+.nox/
+.cache/
+coverage.xml
+*.cover
+*.py,cover
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log and debug files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build and distribution
+build/
+dist/
+*.spec
+*.tar.gz
+*.whl
+
+# Other
+output_audio/
